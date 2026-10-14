@@ -1,0 +1,13 @@
+# Local checks and practice, not part of the portfolio
+tests/
+pytest.ini
+.pytest_cache/
+
+# Website write-up draft, published from the website repo
+writeup/
+
+# Scratch notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+__pycache__/
